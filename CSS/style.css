@@ -70,13 +70,8 @@ html {
     color: white;
 }
 
-.hero{
-    background: url(../Images/middle.jpg) no-repeat;
-    background-size:cover;
-    height: 464px;
-    margin:auto;
-}
 
+/****HEADER****/
 .header{
     height: 62px;
     margin: 0;
@@ -150,3 +145,52 @@ img{
 .extra{
     margin: 0 70px 0 0;
 }
+/****END OF HEADER ****/
+
+/**** HERO ****/
+
+
+.hero{
+    background: url(../Images/middle.jpg) no-repeat;
+    background-size:cover;
+    height: 464px;
+    margin:auto;
+    color: white;
+    text-align: center;
+}
+strong{
+    font-weight: 700;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+}
+
+.container p{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0 auto 54px;
+    max-width: 671px;
+
+}
+
+.btn{
+    border-radius: 3px;
+    padding: 15px 43px;
+    color: white;
+    margin: 0 13px;
+    font-size: 18px;
+}
+.btn-green{
+    background-color: #83c129;
+}
+.btn-blue{
+    background-color: #068fd5;
+}
+
+
+
