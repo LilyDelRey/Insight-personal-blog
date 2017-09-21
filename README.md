@@ -16,12 +16,12 @@ Technologies Used
 Screenshots
 --------------
 #### Homepage on desktop
-![The Homepage on desktop](/showcase/home1.jpg)
-![The Homepage on desktop](/showcase/home2.jpg)
-![The Homepage on desktop](/showcase/home3.jpg)
+![The Homepage on desktop](/showcase/home1.png)
+![The Homepage on desktop](/showcase/home2.png)
+![The Homepage on desktop](/showcase/home3.png)
  
 #### Original PSD Design
-![PSD file](/showcase/home.jpg)
+![PSD file](/showcase/home.png)
 
 What I learned doing this project
 --------------
