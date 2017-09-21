@@ -18,10 +18,11 @@ Screenshots
 #### Homepage on desktop
 ![The Homepage on desktop](/showcase/home1.png)
 ![The Homepage on desktop](/showcase/home2.png)
+and the rest of the page
 ![The Homepage on desktop](/showcase/home3.png)
  
 #### Original PSD Design
-![PSD file](/showcase/home.png)
+![PSD file](/showcase/home.jpg)
 
 What I learned doing this project
 --------------
