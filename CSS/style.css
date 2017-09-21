@@ -242,7 +242,6 @@ h1 {
 }*/
 
 /***********/
-<<<<<<< HEAD
 .first:after, .news:after{
     content:"";
     display: table;
@@ -274,7 +273,7 @@ h1 {
     height: 90px;
     float:right;
     font-size: 15px;
-   
+
 }
 .text time{
     font-size: 14px;
@@ -329,38 +328,3 @@ display: inline-block;
     float:left;
     margin-left: 20px;
 }
-=======
-.first:after, .news:after {
-  content: "";
-  display: table;
-}
-.news {
-  color: black;
-  border-bottom: 2px solid #e7e8ea;
-  border-top: 2px solid #e7e8ea;
-}
-.news .first {
-  float: left;
-  width: 350px;
-  margin-left: 35px;
-  height: 100px;
-  padding: 20px 0;
-  margin-bottom: 30px;
-}
-.news .first img {
-  width: 89px;
-  height: 89px;
-  float: left;
-  border-radius: 50%;
-  margin-left: 0;
-}
-.news .first .text {
-  width: 234px;
-  height: 90px;
-  float: right;
-}
-.text time {
-  font-size: 14px;
-  color: #abb1bb;
-}
->>>>>>> 76b70cefa877019a8b90139f253f4db5684732e0
