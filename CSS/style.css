@@ -258,14 +258,13 @@ clear: both;
 
 .news{
     color: black;
-    border-bottom: 2px solid #e7e8ea;
     border-top: 2px solid #e7e8ea;
 }
 
 .news .first{
     float: left;
     width: 350px;
-    margin-left: 35px;
+    margin-left: 50px;
    height: 100px;
    padding: 20px 0;
    margin-bottom: 30px;
@@ -282,16 +281,33 @@ clear: both;
     width: 234px;
     height: 90px;
     float:right;
+    font-size: 15px;
    
 }
 .text time{
     font-size: 14px;
     color: #abb1bb;
 }
+/*****FEATURED ON*****/
 
+.feature{
+    color: black;
+    clear: both;
+    border-top: 2px solid #e7e8ea;
+    padding-top: 30px;
+}
 
-
-
+.feature img{
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+.feat{
+    float:left;
+    vertical-align: bottom;
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 30px;
+}
 
 
 
