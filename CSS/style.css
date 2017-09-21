@@ -453,3 +453,36 @@ display: inline-block;
   color: #8e959c;
   margin-left: 8px;
 }
+
+/****RESPONSIVE*****/
+
+@media screen and (max-width: 400px)
+{
+  /*.navs{
+    width:300 px;
+    height: 100%
+    position: absolute;
+    transform: translate (-300,0);
+    transition: transform 0.3s ease;
+  }
+.navs.open{
+  transform: translate(0,0);
+}*/
+.slogan{
+  display:none;
+}
+header{
+  width:400px;
+}
+.how, .sign, .login{
+  font-size: 10px;
+
+}
+.logo{
+  margin-left:0;
+}
+
+
+
+
+}
